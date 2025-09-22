@@ -1,5 +1,5 @@
 # Klack MacBook (macOS)
-![logo-Klack](https://static.macupdate.com/products/64568/l/phpu38h5w-logo.png?v=1701087140)
+![logo-Klack](https://cdn.tryklack.com/images/meta.png)
 
 Klack MacBook is a typing sound simulator for macOS. Add realistic mechanical keyboard sounds to your typing and make every keystroke satisfying. ⌨️🔊
 
